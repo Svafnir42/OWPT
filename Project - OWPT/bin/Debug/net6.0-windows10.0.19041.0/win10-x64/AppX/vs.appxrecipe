@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-03T16:18:11.444</Modified>
+      <Modified>2022-10-03T18:33:01.370</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-10-03T16:18:10.969</Modified>
+      <Modified>2022-10-03T18:33:00.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Project - OWPT.runtimeconfig.json">
       <PackagePath>Project - OWPT.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Project - OWPT.dll">
       <PackagePath>Project - OWPT.dll</PackagePath>
-      <Modified>2022-10-03T16:18:09.795</Modified>
+      <Modified>2022-10-03T18:32:59.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Project - OWPT.exe</PackagePath>
-      <Modified>2022-10-03T16:18:09.801</Modified>
+      <Modified>2022-10-03T18:32:59.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stali\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.9\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Project - OWPT.deps.json">
       <PackagePath>Project - OWPT.deps.json</PackagePath>
-      <Modified>2022-10-03T16:18:11.296</Modified>
+      <Modified>2022-10-03T18:33:01.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.536\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

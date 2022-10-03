@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project___OWPT.RegistrationPage"
+             Title="RegistrationPage">
+    <VerticalStackLayout 
+        Spacing="20"
+        Padding="30,0"
+        VerticalOptions="Center">
+        <Image
+                Source="floppa.jpg"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                HeightRequest="400"
+                WidthRequest="400"
+                HorizontalOptions="Center" />
+        <Label 
+            Text="Welcome to OWPT"
+            VerticalOptions="Center"
+            SemanticProperties.HeadingLevel="Level1"
+            FontSize="32"
+            HorizontalOptions="Center" />
+        <Label 
+            Text="Войдите в свой аккаунт или зарегистрируйтесь если вы здесь впервые"
+            
+            FontSize="18"
+            HorizontalOptions="Center" />
+
+        <Button
+            x:Name="Login"
+            Text="Войти"
+            
+            HorizontalOptions="Center"/>
+        
+        <Button
+            x:Name="CrateAccount"
+            Text="Создать Аккаунт"
+            
+            HorizontalOptions="Center"/>
+
+    </VerticalStackLayout>
+</ContentPage>
