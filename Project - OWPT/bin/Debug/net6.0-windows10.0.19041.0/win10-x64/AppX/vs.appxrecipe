@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-10-03T18:33:01.370</Modified>
+      <Modified>2022-10-18T18:44:36.623</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-10-03T18:33:00.900</Modified>
+      <Modified>2022-10-18T18:44:36.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Project - OWPT.runtimeconfig.json">
       <PackagePath>Project - OWPT.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Project - OWPT.dll">
       <PackagePath>Project - OWPT.dll</PackagePath>
-      <Modified>2022-10-03T18:32:59.822</Modified>
+      <Modified>2022-10-18T18:44:35.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Project - OWPT.exe</PackagePath>
-      <Modified>2022-10-03T18:32:59.829</Modified>
+      <Modified>2022-10-18T18:44:35.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stali\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.9\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Project - OWPT.deps.json">
       <PackagePath>Project - OWPT.deps.json</PackagePath>
-      <Modified>2022-10-03T18:33:01.217</Modified>
+      <Modified>2022-10-18T18:44:36.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.536\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1112,154 +1112,162 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-10-03T16:12:40.093</Modified>
+      <Modified>2022-10-18T17:29:04.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.357</Modified>
+      <Modified>2022-10-18T17:29:04.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.371</Modified>
+      <Modified>2022-10-18T17:29:04.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.383</Modified>
+      <Modified>2022-10-18T17:29:04.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.404</Modified>
+      <Modified>2022-10-18T17:29:04.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.481</Modified>
+      <Modified>2022-10-18T17:29:04.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.134</Modified>
+      <Modified>2022-10-18T17:29:04.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.138</Modified>
+      <Modified>2022-10-18T17:29:04.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.143</Modified>
+      <Modified>2022-10-18T17:29:04.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.147</Modified>
+      <Modified>2022-10-18T17:29:04.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.155</Modified>
+      <Modified>2022-10-18T17:29:04.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.221</Modified>
+      <Modified>2022-10-18T17:29:04.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.228</Modified>
+      <Modified>2022-10-18T17:29:04.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.236</Modified>
+      <Modified>2022-10-18T17:29:04.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.248</Modified>
+      <Modified>2022-10-18T17:29:04.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.268</Modified>
+      <Modified>2022-10-18T17:29:04.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.189</Modified>
+      <Modified>2022-10-18T17:29:04.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.193</Modified>
+      <Modified>2022-10-18T17:29:04.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.198</Modified>
+      <Modified>2022-10-18T17:29:04.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.204</Modified>
+      <Modified>2022-10-18T17:29:04.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.216</Modified>
+      <Modified>2022-10-18T17:29:04.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.159</Modified>
+      <Modified>2022-10-18T17:29:04.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.164</Modified>
+      <Modified>2022-10-18T17:29:04.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.168</Modified>
+      <Modified>2022-10-18T17:29:04.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.173</Modified>
+      <Modified>2022-10-18T17:29:04.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.183</Modified>
+      <Modified>2022-10-18T17:29:04.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.275</Modified>
+      <Modified>2022-10-18T17:29:04.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.283</Modified>
+      <Modified>2022-10-18T17:29:04.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.293</Modified>
+      <Modified>2022-10-18T17:29:04.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.309</Modified>
+      <Modified>2022-10-18T17:29:04.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.347</Modified>
+      <Modified>2022-10-18T17:29:04.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.065</Modified>
+      <Modified>2022-10-18T17:29:04.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.076</Modified>
+      <Modified>2022-10-18T17:29:04.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.099</Modified>
+      <Modified>2022-10-18T17:29:04.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.149</Modified>
+      <Modified>2022-10-18T17:29:04.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-10-03T16:12:40.218</Modified>
+      <Modified>2022-10-18T17:29:04.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\floppa.scale-100.jpg">
       <PackagePath>floppa.scale-100.jpg</PackagePath>
       <Modified>2022-10-03T16:10:40.322</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\owpt.scale-100.png">
+      <PackagePath>owpt.scale-100.png</PackagePath>
+      <Modified>2022-10-18T11:32:52.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.jpg">
       <PackagePath>profile.scale-100.jpg</PackagePath>
+      <Modified>2022-06-25T15:15:33.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\svafniravatar.scale-100.jpg">
+      <PackagePath>svafniravatar.scale-100.jpg</PackagePath>
       <Modified>2022-06-25T15:15:33.585</Modified>
     </AppxPackagedFile>
   </ItemGroup>

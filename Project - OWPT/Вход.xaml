@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project___OWPT.LoginPage"
+             Title="Вход">
+    <VerticalStackLayout Spacing="5">
+        <Label 
+            Text="Введите данные своей учетной записи"
+            FontSize="32"
+            SemanticProperties.HeadingLevel="Level1"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <VerticalStackLayout Spacing="25">
+            <HorizontalStackLayout Spacing="15">
+                <Label
+                    Text="Логин: "
+                    FontSize="18"
+                    />
+                <Entry 
+                Placeholder="Введите Логин"
+                />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Spacing="15">
+                <Label
+                    Text="Пароль: "
+                    FontSize="18"
+                    />
+                <Entry 
+                Placeholder="Введите Пароль"
+                IsPassword ="True"
+                MaxLength="20"
+                />
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+        <Button
+            Text="Войти"
+            FontSize="20"
+            WidthRequest="150"
+            HeightRequest="50"/>
+    </VerticalStackLayout>
+</ContentPage>

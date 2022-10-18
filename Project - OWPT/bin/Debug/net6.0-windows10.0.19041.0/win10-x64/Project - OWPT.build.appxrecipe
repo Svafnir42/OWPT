@@ -943,8 +943,14 @@
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\floppa.scale-100.jpg">
       <PackagePath>floppa.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\owpt.scale-100.png">
+      <PackagePath>owpt.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.jpg">
       <PackagePath>profile.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\svafniravatar.scale-100.jpg">
+      <PackagePath>svafniravatar.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

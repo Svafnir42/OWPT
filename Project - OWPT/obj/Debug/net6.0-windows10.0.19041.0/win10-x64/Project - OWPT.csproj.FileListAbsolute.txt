@@ -345,3 +345,5 @@ D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041
 D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\floppa.scale-100.jpg
+D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\owpt.scale-100.png
+D:\Projects\OWPT\OWPT - public\Project - OWPT\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\svafniravatar.scale-100.jpg

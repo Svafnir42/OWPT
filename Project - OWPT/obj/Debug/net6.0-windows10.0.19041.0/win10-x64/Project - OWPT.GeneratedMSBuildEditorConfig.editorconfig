@@ -21,18 +21,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.AppShell.xa
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Projects/OWPT/OWPT - public/Project - OWPT/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
-
-[D:/Projects/OWPT/OWPT - public/Project - OWPT/RegistrationPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.RegistrationPage.xaml
-build_metadata.AdditionalFiles.TargetPath = RegistrationPage.xaml
-build_metadata.AdditionalFiles.RelativePath = RegistrationPage.xaml
-
 [D:/Projects/OWPT/OWPT - public/Project - OWPT/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.Resources.Styles.Colors.xaml
@@ -44,3 +32,27 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Projects/OWPT/OWPT - public/Project - OWPT/Вход.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.Вход.xaml
+build_metadata.AdditionalFiles.TargetPath = Вход.xaml
+build_metadata.AdditionalFiles.RelativePath = Вход.xaml
+
+[D:/Projects/OWPT/OWPT - public/Project - OWPT/Главная.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.Главная.xaml
+build_metadata.AdditionalFiles.TargetPath = Главная.xaml
+build_metadata.AdditionalFiles.RelativePath = Главная.xaml
+
+[D:/Projects/OWPT/OWPT - public/Project - OWPT/Регистрация.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.Регистрация.xaml
+build_metadata.AdditionalFiles.TargetPath = Регистрация.xaml
+build_metadata.AdditionalFiles.RelativePath = Регистрация.xaml
+
+[D:/Projects/OWPT/OWPT - public/Project - OWPT/Создание Аккаунта.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Project___OWPT.Создание Аккаунта.xaml
+build_metadata.AdditionalFiles.TargetPath = Создание Аккаунта.xaml
+build_metadata.AdditionalFiles.RelativePath = Создание Аккаунта.xaml

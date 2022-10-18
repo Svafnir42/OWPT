@@ -49,7 +49,33 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="RegistrationPage.xaml">
+	  <None Remove="Resources\Images\owpt.png" />
+	  <None Remove="Resources\Images\SvafnirAvatar.jpg" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Главная.xaml.cs">
+	    <DependentUpon>Главная.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Создание Аккаунта.xaml.cs">
+	    <DependentUpon>Создание Аккаунта.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Регистрация.xaml.cs">
+	    <DependentUpon>Регистрация.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Вход.xaml.cs">
+	    <DependentUpon>Вход.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Создание Аккаунта.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Вход.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Регистрация.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
