@@ -1,0 +1,42 @@
+Для добавления карты в приложение .NET MAUI можно использовать пакеты Microsoft.Maui.Controls.Maps и Microsoft.Maui.Essentials. 
+Пример кода для отображения карты и маркера на полученной геолокации:
+
+using Microsoft.Maui.Controls.Maps;
+using Microsoft.Maui.Essentials;
+
+// ...
+
+// Создание карты и начального местоположения
+var map = new Map(MapSpan.FromCenterAndRadius(new Position(47.6097, -122.3331), Distance.FromMiles(0.3)))
+{
+    IsShowingUser = true,
+    HeightRequest = 100,
+    WidthRequest = 960,
+    VerticalOptions = LayoutOptions.FillAndExpand
+};
+
+// Добавление маркера на местоположение пользователя
+var request = new GeolocationRequest(GeolocationAccuracy.Medium, TimeSpan.FromSeconds(10));
+var location = await Geolocation.GetLocationAsync(request);
+if (location != null)
+{
+    var position = new Position(location.Latitude, location.Longitude);
+
+    var pin = new Pin
+    {
+        Type = PinType.Place,
+        Position = position,
+        Label = "Your location",
+        Address = "You are here"
+    };
+    map.Pins.Add(pin);
+
+    // Установка центра карты на местоположение пользователя
+    map.MoveToRegion(MapSpan.FromCenterAndRadius(position, Distance.FromMiles(0.3)));
+}
+
+// Добавление карты на страницу
+Content = new StackLayout
+{
+    Children = { map }
+};

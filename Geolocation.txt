@@ -1,0 +1,22 @@
+Для запроса геолокации на Android в приложении .NET MAUI можно использовать класс GeolocationService из пакета Microsoft.Maui.Essentials. 
+Пример кода для получения координат пользователя:
+
+using Microsoft.Maui.Essentials;
+
+// ...
+
+var request = new GeolocationRequest(GeolocationAccuracy.Medium);
+var location = await Geolocation.GetLocationAsync(request);
+if (location != null)
+{
+    double latitude = location.Latitude;
+    double longitude = location.Longitude;
+
+    // Use the coordinates
+    // ...
+}
+else
+{
+    // Unable to get location
+    // ...
+}
